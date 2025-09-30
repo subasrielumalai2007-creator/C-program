@@ -1,4 +1,3 @@
-
 #include <ctype.h>
 
 int main() {
@@ -26,3 +25,4 @@ int main() {
             inWord = 0;  // word ended
         } else if (inWord == 0) {
             inWord = 1
+
